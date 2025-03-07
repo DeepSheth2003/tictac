@@ -141,7 +141,7 @@ body{
     background-image: url(./assets/vs.png);
     background-position: bottom;
     background-repeat: no-repeat;
-    background-size: 250px;
+    background-size: 40%;
 }
 
 .board-container{
