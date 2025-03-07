@@ -135,15 +135,15 @@ body{
 
 
 .App{
-    height: 100vh;
+    height: 100%;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     background-image: url(./assets/vs.png);
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 80%;
 }
 
 .board-container{
@@ -154,7 +154,7 @@ body{
 }
 
 .board-row{
-    height: 60px;
+    height: 70px;
     width: 65%;
     display: flex;
     justify-content: center;
@@ -165,13 +165,13 @@ body{
 
 .headName{
     width: 65%;
-    font-size: 1.7rem;
+    font-size: 1.9rem;
 }
 .btns{
     width: 65%;
 }
 .btn-name{
-    font-size: 1.7rem;
+    font-size: 1.9rem;
 }
 
 .reset-btn{
