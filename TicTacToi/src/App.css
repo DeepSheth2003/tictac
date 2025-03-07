@@ -151,6 +151,7 @@ body{
     width: 400px;
     position: static;
     right: 0px;
+    margin-bottom: 100px;
 }
 
 .board-row{
