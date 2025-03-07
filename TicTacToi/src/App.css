@@ -141,12 +141,12 @@ body{
     background-image: url(./assets/vs.png);
     background-position: bottom;
     background-repeat: no-repeat;
-    background-size: 10%;
+    background-size: contain;
 }
 
 .board-container{
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     position: static;
     right: 0px;
 }
