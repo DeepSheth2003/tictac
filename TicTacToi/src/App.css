@@ -124,7 +124,7 @@ body{
 
 @media screen and (width<768px) {
 body{
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     background-color: #000000;
     background-image: url(./assets/galaxy.png);
@@ -135,7 +135,7 @@ body{
 
 
 .App{
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     display: flex;
     align-items: center;
